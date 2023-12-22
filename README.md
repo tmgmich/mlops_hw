@@ -1,4 +1,7 @@
 # mlops_hw
+- в репе дополнительно создать 2 папки: dataframes и models
+- тестил на датасете (лежит в папке datasets)
+
 ``` shell 
 pip install requirements.txt
 ```
